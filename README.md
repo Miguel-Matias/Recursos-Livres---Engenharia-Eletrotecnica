@@ -11,8 +11,6 @@
   ## Propósito
   
   Pretende-se com este repositório fazer uma compilação de recursos de livre acesso relacionados com cursos de Engenharia Eletrotécnica. 
-  
-  O objetivo é apresentar APENAS recursos de livre acesso, dando os devidos créditos ao autor.
 
   Exemplo de Programa: Instituto Superior Técnico - Licenciatura em Engenharia Eletrotécnica e de Computadores
 
