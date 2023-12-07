@@ -2,11 +2,11 @@
 
   ## Índice
   
-  1. Propósito
-  2. Instruções
-  3. Contribuir
-  4. Créditos
-  5. Licensa
+  1. [Propósito](#propósito)
+  2. [Instruções](#instruções)
+  3. [Contribuir](#contribuir)
+  4. [Créditos](créditos)
+  5. [Licensa](#licensa)
 
   ## Propósito
   
