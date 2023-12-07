@@ -53,14 +53,15 @@
     - Sistemas Eletrónicos
     - Redes de Computadores e Internet
 
-  ## Instruções
-(sempre que possível colocar para além dos ficheiros também o link respetivo para o recurso). Os pedidos são feitos através de push/pull requests, que devem ser acompanhados de descrições bem estruturadas.
+  ## Instruções de Utilização
 
-Na pasta de cada disciplina é suposto existir um ficheiro .txt que encaminhe para o link oficial e forneça uma descrição de cada recurso disponível na pasta.
+  Cada disciplina deve ter uma pasta dentro da diretoria principal, sem estar dentro de nenhuma hierarquia de anos/semestres pois como os cursos diferem entre instituições de ensino isso tornaria a procura mais difícil. Recursos livres *mas referentes a uma instituição de ensino específica* devem encontrar-se dentro de uma pasta na diretoria principal com o nome da instituição, também separados por disciplinas dentro dessa pasta.
 
-Para o caso em que existem recursos que são referentes ao curso lecionado numa universidade/faculdade específica, estes devem encontrar-se dentro de uma pasta com o nome da universidade/faculdade.
+  Dentro da pasta de cada disciplina, para além de se disponibilizar prontamente os recursos no formato *Nome do recurso - Autor.extensão* deve haver um ficheiro *.md que dê uma descrição mais detalhado dos ficheiros dentro dessa pasta, principalmente os links originais onde se obteram os respetivos recursos (enumeração por ordem alfabética).
 
   ## Contribuir
+
+  Os pedidos são feitos através de push/pull requests, que devem ser acompanhados de descrições bem estruturadas, que cumpram com todos os parâmetros de alterações para se enquadrarem no descrito superiormente. 
 
   ## Recursos Adicionais
 
