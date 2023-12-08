@@ -68,9 +68,25 @@
   **OpenStax**: https://openstax.org/
   - OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. (Wikipédia)
 
+  **American Institute of Mathematics Open Textbook Iniciative**: https://aimath.org/textbooks/
+
+  - The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses. The Editorial Board maintains a list of Approved Textbooks which have been judged to meet these criteria.
+
+  **Open Textbook Library**: https://open.umn.edu/opentextbooks/
+
+  - The Open Textbook Library was started so that faculty could find open textbooks in one place. More technically, the Open Textbook Library is a comprehensive referatory that points to open textbooks by a variety of authors and publishers.
+
+  **Florida Institute of Technology - Open Textbooks for Engineering**: https://libguides.lib.fit.edu/OEREng/home
+
+  **Data Structures & Algorithm Analysis by Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
+
+  **Feynman Lectures on Physics**: https://www.feynmanlectures.caltech.edu/
+
+  - The Feynman Lectures on Physics is a physics textbook based on some lectures by Richard Feynman, a Nobel laureate who has sometimes been called "The Great Explainer". The lectures were presented before undergraduate students at the California Institute of Technology (Caltech), during 1961–1963. The book's co-authors are Feynman, Robert B. Leighton, and Matthew Sands. (Wikipédia)
+
   ## Créditos
 
-  *Miguel Matias*
+  **Creador**: *Miguel Matias*
 
   ## Licensa
   **CC BY-NC-SA 4.0 Deed (Attribution-NonCommercial-ShareAlike 4.0 International)**
