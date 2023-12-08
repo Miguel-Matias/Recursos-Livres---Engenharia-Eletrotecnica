@@ -78,7 +78,9 @@
 
   **Florida Institute of Technology - Open Textbooks for Engineering**: https://libguides.lib.fit.edu/OEREng/home
 
-  **Data Structures & Algorithm Analysis by Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
+  **Open Data Structures and Algorithms**: https://opendsa-server.cs.vt.edu/
+
+  - OpenDSA is infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages.
 
   **Feynman Lectures on Physics**: https://www.feynmanlectures.caltech.edu/
 
