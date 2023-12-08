@@ -1,4 +1,4 @@
-# README
+ # README
 
   ## Índice
   
@@ -65,7 +65,12 @@
 
   ## Recursos Adicionais
 
+  **OpenStax**: https://openstax.org/
+  - OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. (Wikipédia)
+
   ## Créditos
+
+  *Miguel Matias*
 
   ## Licensa
   **CC BY-NC-SA 4.0 Deed (Attribution-NonCommercial-ShareAlike 4.0 International)**
