@@ -88,7 +88,7 @@
 
   ## Créditos
 
-  **Creador**: *Miguel Matias*
+  **Criador**: *Miguel Matias*
 
   ## Licensa
   **CC BY-NC-SA 4.0 Deed (Attribution-NonCommercial-ShareAlike 4.0 International)**
