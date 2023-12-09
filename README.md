@@ -5,8 +5,9 @@
   1. [Propósito](#propósito)
   2. [Instruções](#instruções)
   3. [Contribuir](#contribuir)
-  4. [Créditos](créditos)
-  5. [Licensa](#licensa)
+  4. [Recursos](#recursos)
+  5. [Créditos](créditos)
+  6. [Licensa](#licensa)
 
   ## Propósito
   
