@@ -56,10 +56,12 @@
   ## Instruções de Utilização
 
   Cada disciplina deve ter uma pasta dentro da diretoria principal, sem estar dentro de nenhuma hierarquia de anos/semestres pois como os cursos diferem entre instituições de ensino isso tornaria a procura mais difícil. 
-  
-  Recursos livres *mas referentes a uma instituição de ensino específica* devem encontrar-se dentro de uma pasta na diretoria principal com o nome da instituição, também separados por disciplinas dentro dessa pasta.
 
-  Dentro da pasta de cada disciplina, para além de se disponibilizar prontamente (*se for possível*) os recursos no formato *Nome do recurso - Autor.extensão* deve haver um ficheiro *.md que dê uma descrição mais detalhada dos ficheiros dentro dessa pasta, principalmente os links originais onde se obteram os respetivos recursos (enumeração por ordem alfabética).
+
+  Dentro da pasta de cada disciplina, os recursos são identificados em um ficheiro info.md sob o formato: *Nome do recurso - Autor: link* organizados por ordem alfabética. Os ficheiros não serão disponibilizados neste repositório por três razões: 
+  - (1) Poupança de memória. 
+  - (2) Os recursos apontados, sendo livres, os seus autores disponibilizam-nos abertamente, e assim este repositório é apenas um guia.
+  - (3) O GitHub não facilita o upload de ficheiros de grande dimensão.
 
   ## Contribuir
 
