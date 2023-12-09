@@ -65,41 +65,41 @@
 
   ## Recursos
 
-   ### Algoritmos e Estruturas de Dados
+  ### Algoritmos e Estruturas de Dados
 
-      **Data Structures & Algorithm Analysis - Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
+    **Data Structures & Algorithm Analysis - Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
 
-   ### Análise de Circuitos
+  ### Análise de Circuitos
 
-   ### Arquitetura de Computadores
+  ### Arquitetura de Computadores
 
-   ### Física
+  ### Física
 
-      **University Physics Volume 1 - OpenStax**: https://openstax.org/books/university-physics-volume-1/pages/1-introduction
+    **University Physics Volume 1 - OpenStax**: https://openstax.org/books/university-physics-volume-1/pages/1-introduction
 
-      **University Physics Volume 2 - OpenStax**: https://openstax.org/books/university-physics-volume-2/pages/1-introduction
+    **University Physics Volume 2 - OpenStax**: https://openstax.org/books/university-physics-volume-2/pages/1-introduction
 
-      **University Physics Volume 3 - OpenStax**: https://openstax.org/books/university-physics-volume-3/pages/1-introduction
+    **University Physics Volume 3 - OpenStax**: https://openstax.org/books/university-physics-volume-3/pages/1-introduction
 
    ### Matemática
 
-      **Linear Algebra - Jim Hefferon**: https://hefferon.net/linearalgebra/
+    **Linear Algebra - Jim Hefferon**: https://hefferon.net/linearalgebra/
 
-      **APEX Calculus - Gregory Hartman**: http://www.apexcalculus.com/
+    **APEX Calculus - Gregory Hartman**: http://www.apexcalculus.com/
 
-      **Introduction to Real Analysis - William F. Trench**: https://aimath.org/textbooks/approved-textbooks/trench/
+    **Introduction to Real Analysis - William F. Trench**: https://aimath.org/textbooks/approved-textbooks/trench/
 
-      **A First Course in Complex Analysis - Matthias Beck**: https://aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/
+    **A First Course in Complex Analysis - Matthias Beck**: https://aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/
 
-   ### Programação
+  ### Programação
 
-   ### Sinais e Sistemas
+  ### Sinais e Sistemas
 
-   ### Sistemas Digitais
+  ### Sistemas Digitais
 
-   ### Teoria da Computação
+  ### Teoria da Computação
 
-     **Theory of Computation - Jim Hefferon**: https://hefferon.net/computation/
+    **Theory of Computation - Jim Hefferon**: https://hefferon.net/computation/
 
   ## Recursos Adicionais
 
