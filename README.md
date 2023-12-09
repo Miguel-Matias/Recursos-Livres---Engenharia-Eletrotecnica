@@ -55,17 +55,49 @@
 
   ## Instruções de Utilização
 
-  Cada disciplina deve ter uma pasta dentro da diretoria principal, sem estar dentro de nenhuma hierarquia de anos/semestres pois como os cursos diferem entre instituições de ensino isso tornaria a procura mais difícil. 
-
-
-  Dentro da pasta de cada disciplina, os recursos são identificados em um ficheiro info.md sob o formato: *Nome do recurso - Autor: link* organizados por ordem alfabética. Os ficheiros não serão disponibilizados neste repositório por três razões: 
-  - (1) Poupança de memória. 
-  - (2) Os recursos apontados, sendo livres, os seus autores disponibilizam-nos abertamente, e assim este repositório é apenas um guia.
-  - (3) O GitHub não facilita o upload de ficheiros de grande dimensão.
+  Em desenvolvimento: Criação de um bash script que faça download direto dos recursos disponíveis em pdf para o computador do usuário.
 
   ## Contribuir
 
   Os pedidos são feitos através de push/pull requests, que devem ser acompanhados de descrições bem estruturadas, que cumpram com todos os parâmetros de alterações para se enquadrarem no descrito superiormente. 
+
+  ## Recursos
+
+    ### Algoritmos e Estruturas de Dados
+
+      **Data Structures & Algorithm Analysis - Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
+
+    ### Análise de Circuitos
+
+    ### Arquitetura de Computadores
+
+    ### Física
+
+      **University Physics Volume 1 - OpenStax**: https://openstax.org/books/university-physics-volume-1/pages/1-introduction
+
+      **University Physics Volume 2 - OpenStax**: https://openstax.org/books/university-physics-volume-2/pages/1-introduction
+
+      **University Physics Volume 3 - OpenStax**: https://openstax.org/books/university-physics-volume-3/pages/1-introduction
+
+    ### Matemática
+
+      **Linear Algebra - Jim Hefferon**: https://hefferon.net/linearalgebra/
+
+      **APEX Calculus - Gregory Hartman**: http://www.apexcalculus.com/
+
+      **Introduction to Real Analysis - William F. Trench**: https://aimath.org/textbooks/approved-textbooks/trench/
+
+      **A First Course in Complex Analysis - Matthias Beck**: https://aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/
+
+    ### Programação
+
+    ### Sinais e Sistemas
+
+    ### Sistemas Digitais
+
+    ### Teoria da Computação
+
+     **Theory of Computation - Jim Hefferon**: https://hefferon.net/computation/
 
   ## Recursos Adicionais
 
