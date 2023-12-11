@@ -95,6 +95,8 @@
 
   ### Sinais e Sistemas
 
+  - **Sinais e Sistemas - Luís Caldas de Oliveira**: https://learnius.com/ss
+
   ### Sistemas Digitais
 
   ### Teoria da Computação
