@@ -109,9 +109,9 @@
 
   ### Programação
 
-  **The Python Tutorial**: https://docs.python.org/3/tutorial/
+  - **The Python Tutorial**: https://docs.python.org/3/tutorial/
 
-  **The GNU C Reference Manual**: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+  - **The GNU C Reference Manual**: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 
   ### Sinais e Sistemas
 
