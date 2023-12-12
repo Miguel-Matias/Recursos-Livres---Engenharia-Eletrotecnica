@@ -69,6 +69,10 @@
 
   - **Data Structures & Algorithm Analysis - Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
 
+  - **Open Data Structures and Algorithms**: https://opendsa-server.cs.vt.edu/
+
+    - OpenDSA is infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages.
+
   ### Análise de Circuitos
 
   ### Arquitetura de Computadores
@@ -81,6 +85,10 @@
 
   - **University Physics Volume 3 - OpenStax**: https://openstax.org/books/university-physics-volume-3/pages/1-introduction
 
+  - **Feynman Lectures on Physics**: https://www.feynmanlectures.caltech.edu/
+
+    - The Feynman Lectures on Physics is a physics textbook based on some lectures by Richard Feynman, a Nobel laureate who has sometimes been called "The Great Explainer". The lectures were presented before undergraduate students at the California Institute of Technology (Caltech), during 1961–1963. The book's co-authors are Feynman, Robert B. Leighton, and Matthew Sands. (Wikipédia)
+
    ### Matemática
 
   - **Linear Algebra - Jim Hefferon**: https://hefferon.net/linearalgebra/
@@ -90,6 +98,10 @@
   - **Introduction to Real Analysis - William F. Trench**: https://aimath.org/textbooks/approved-textbooks/trench/
 
   - **A First Course in Complex Analysis - Matthias Beck**: https://aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/
+
+  - **American Institute of Mathematics Open Textbook Iniciative**: https://aimath.org/textbooks/
+
+    - The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses. The Editorial Board maintains a list of Approved Textbooks which have been judged to meet these criteria.
 
   ### Programação
 
@@ -105,26 +117,11 @@
 
   ## Recursos Adicionais
 
-  **OpenStax**: https://openstax.org/
-  - OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. (Wikipédia)
-
-  **American Institute of Mathematics Open Textbook Iniciative**: https://aimath.org/textbooks/
-
-  - The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses. The Editorial Board maintains a list of Approved Textbooks which have been judged to meet these criteria.
-
   **Open Textbook Library**: https://open.umn.edu/opentextbooks/
 
   - The Open Textbook Library was started so that faculty could find open textbooks in one place. More technically, the Open Textbook Library is a comprehensive referatory that points to open textbooks by a variety of authors and publishers.
 
   **Florida Institute of Technology - Open Textbooks for Engineering**: https://libguides.lib.fit.edu/OEREng/home
-
-  **Open Data Structures and Algorithms**: https://opendsa-server.cs.vt.edu/
-
-  - OpenDSA is infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages.
-
-  **Feynman Lectures on Physics**: https://www.feynmanlectures.caltech.edu/
-
-  - The Feynman Lectures on Physics is a physics textbook based on some lectures by Richard Feynman, a Nobel laureate who has sometimes been called "The Great Explainer". The lectures were presented before undergraduate students at the California Institute of Technology (Caltech), during 1961–1963. The book's co-authors are Feynman, Robert B. Leighton, and Matthew Sands. (Wikipédia)
 
   ## Créditos
 
