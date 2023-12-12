@@ -75,7 +75,11 @@
 
   ### Análise de Circuitos
 
+  - **Circuit Analysis - Alyssa J. Pasquale**: https://doctor-pasquale.com/wp-content/uploads/2021/09/CircuitAnalysisBook.pdf
+
   ### Arquitetura de Computadores
+
+  - **Programming from the Ground Up - Jonathan Bartlet**: https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-0-8.pdf
 
   ### Física
 
@@ -105,11 +109,17 @@
 
   ### Programação
 
+  **The Python Tutorial**: https://docs.python.org/3/tutorial/
+
+  **The GNU C Reference Manual**: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+
   ### Sinais e Sistemas
 
   - **Sinais e Sistemas - Luís Caldas de Oliveira**: https://learnius.com/ss
 
   ### Sistemas Digitais
+
+  - **Digital Systems - Alyssa J. Pasquale**: https://doctor-pasquale.com/wp-content/uploads/2020/11/DigitalSystemsBook.pdf
 
   ### Teoria da Computação
 
