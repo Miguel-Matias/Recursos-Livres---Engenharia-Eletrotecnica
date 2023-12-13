@@ -92,6 +92,10 @@
   - **Feynman Lectures on Physics**: https://www.feynmanlectures.caltech.edu/
 
     - The Feynman Lectures on Physics is a physics textbook based on some lectures by Richard Feynman, a Nobel laureate who has sometimes been called "The Great Explainer". The lectures were presented before undergraduate students at the California Institute of Technology (Caltech), during 1961–1963. The book's co-authors are Feynman, Robert B. Leighton, and Matthew Sands. (Wikipédia)
+   
+  - **Electromagnetics Vol 1 - Steven W. Ellingson**: https://vtechworks.lib.vt.edu/items/6f75e22e-ea6a-48a3-b441-65ce5ebf5331
+   
+  - **Electromagnetics Vol 2 - Steven W. Ellingson**: https://vtechworks.lib.vt.edu/items/a8b62b35-3d88-4136-92be-f309749b1c67
 
    ### Matemática
 
@@ -120,6 +124,10 @@
   ### Sistemas Digitais
 
   - **Digital Systems - Alyssa J. Pasquale**: https://doctor-pasquale.com/wp-content/uploads/2020/11/DigitalSystemsBook.pdf
+
+  ### Telecomunicações
+
+  - **Introduction to Communication Systems: An Interactive Approach Using the Wolfram Language - Victor S. Frost**: https://open.umn.edu/opentextbooks/textbooks/introduction-to-communication-systems-an-interactive-approach-using-the-wolfram-language
 
   ### Teoria da Computação
 
