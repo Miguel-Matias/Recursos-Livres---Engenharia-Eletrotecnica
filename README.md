@@ -97,15 +97,14 @@
    
   - **Electromagnetics Vol 2 - Steven W. Ellingson**: https://vtechworks.lib.vt.edu/items/a8b62b35-3d88-4136-92be-f309749b1c67
 
-   ### Matemática
+  ### Matemática
 
-  - **Linear Algebra - Jim Hefferon**: https://hefferon.net/linearalgebra/
-
-  - **APEX Calculus - Gregory Hartman**: http://www.apexcalculus.com/
-
-  - **Introduction to Real Analysis - William F. Trench**: https://aimath.org/textbooks/approved-textbooks/trench/
-
-  - **A First Course in Complex Analysis - Matthias Beck**: https://aimath.org/textbooks/approved-textbooks/beck-marchesi-pixton-sabalka/
+  - **Linear Algebra - Jim Hefferon**: https://hefferon.net/linearalgebra/ 
+  
+  - **Calculus - OpenStax**:
+    - https://openstax.org/books/calculus-volume-1/pages/1-introduction
+    - https://openstax.org/books/calculus-volume-2/pages/1-introduction
+    - https://openstax.org/books/calculus-volume-3/pages/1-introduction
 
   - **American Institute of Mathematics Open Textbook Iniciative**: https://aimath.org/textbooks/
 
