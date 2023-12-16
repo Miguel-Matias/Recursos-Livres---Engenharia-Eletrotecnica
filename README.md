@@ -106,6 +106,12 @@
     - https://openstax.org/books/calculus-volume-2/pages/1-introduction
     - https://openstax.org/books/calculus-volume-3/pages/1-introduction
 
+  - **APEX Calculus**: http://www.apexcalculus.com/
+
+  - **A First Course in Complex Analysis** https://matthbeck.github.io/complex.html
+
+  - **Elementary Differential Equations with Boundary Value Problems**: https://digitalcommons.trinity.edu/mono/9/
+
   - **American Institute of Mathematics Open Textbook Iniciative**: https://aimath.org/textbooks/
 
     - The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses. The Editorial Board maintains a list of Approved Textbooks which have been judged to meet these criteria.
