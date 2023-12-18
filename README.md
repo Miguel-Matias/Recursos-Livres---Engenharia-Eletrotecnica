@@ -68,6 +68,8 @@
   ### Algoritmos e Estruturas de Dados
 
   - **Data Structures & Algorithm Analysis - Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
+    
+  - **An Open Guide to Data Structures and Algorithms - Paul W. Bible and Lucas Moser**: https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/
 
   - **Open Data Structures and Algorithms**: https://opendsa-server.cs.vt.edu/
 
