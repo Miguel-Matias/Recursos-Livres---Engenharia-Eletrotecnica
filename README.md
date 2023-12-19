@@ -14,47 +14,6 @@
   
   Pretende-se com este repositório fazer uma compilação de recursos de livre acesso relacionados com cursos de Engenharia Eletrotécnica. 
 
-  Exemplo de Programa: Instituto Superior Técnico - Licenciatura em Engenharia Eletrotécnica e de Computadores
-
-  **1ºAno**
-  - *1ºSemestre*
-    - Cálculo Diferencial e Integral 1
-    - Álgebra Linear
-    - Química Geral
-    - Sistemas Digitais
-    - Elementos da Teoria da Computação
-  - *2ºSemestre*
-    - Cálculo Diferencial e Integral 2
-    - Física 1 - Mecânica e Ondas
-    - Programação (Linguagem C)
-    - Física 2 - Termodinâmica
-    - Arquitetura de Computadores   
-
-  **2ºAno**
-  - *1ºSemestre*
-    - Física 3 - Eletromagnetismo e Ótica
-    - Cálculo Diferencial e Integral 3
-    - Análise de Circuitos
-    - Algoritmos e Estruturas de Dados
-    - Sinais e Sistemas
-    - Programação Concorrente   
-  - *2ºSemestre*
-    - Controlo
-    - Circuitos Eletrónicos
-    - Instrumentação e Medidas
-    - Probabilidade e Estatística
-    - Eletrotecnia Teórica    
- 
-  **3ºAno**
-  - *1ºSemestre*
-    - Fundamentos de Energia Elétrica
-    - Telecomunicações
-    - Propagação de Radiação e Ondas Eletromagnéticas
-    - Modelação e Simulação 
-  - *2ºSemestre*
-    - Sistemas Eletrónicos
-    - Redes de Computadores e Internet
-
   ## Instruções de Utilização
 
   Em desenvolvimento: Criação de um bash script que faça download direto dos recursos disponíveis em pdf para o computador do usuário.
