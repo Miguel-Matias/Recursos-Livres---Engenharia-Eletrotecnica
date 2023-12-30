@@ -69,6 +69,8 @@
 
   - **The GNU C Reference Manual**: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 
+  - **The Linux Documentation Project**: https://tldp.org/guides.html
+
   ### Sinais e Sistemas
 
   - **Sinais e Sistemas - Luís Caldas de Oliveira**: https://learnius.com/ss
