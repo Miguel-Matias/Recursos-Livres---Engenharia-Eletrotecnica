@@ -26,17 +26,9 @@
 
   ### Algoritmos e Estruturas de Dados
 
-  - **Data Structures & Algorithm Analysis - Clifford A. Shaffer**: https://people.cs.vt.edu/shaffer/Book/
-    
-  - **An Open Guide to Data Structures and Algorithms - Paul W. Bible and Lucas Moser**: https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/
-
   - **Open Data Structures and Algorithms**: https://opendsa-server.cs.vt.edu/
 
     - OpenDSA is infrastructure and materials to support courses in a wide variety of Computer Science-related topics such as Data Structures and Algorithms (DSA), Formal Languages, Finite Automata, and Programming Languages.
-
-  ### Análise de Circuitos
-
-  - **Circuit Analysis - Alyssa J. Pasquale**: https://doctor-pasquale.com/wp-content/uploads/2021/09/CircuitAnalysisBook.pdf
 
   ### Arquitetura de Computadores
 
@@ -67,12 +59,6 @@
     - https://openstax.org/books/calculus-volume-2/pages/1-introduction
     - https://openstax.org/books/calculus-volume-3/pages/1-introduction
 
-  - **APEX Calculus**: http://www.apexcalculus.com/
-
-  - **A First Course in Complex Analysis** https://matthbeck.github.io/complex.html
-
-  - **Elementary Differential Equations with Boundary Value Problems**: https://digitalcommons.trinity.edu/mono/9/
-
   - **American Institute of Mathematics Open Textbook Iniciative**: https://aimath.org/textbooks/
 
     - The American Institute of Mathematics (AIM) seeks to encourage the adoption of open source and open access mathematics textbooks. The AIM Editorial Board has developed evaluation criteria to identify the books that are suitable for use in traditional university courses. The Editorial Board maintains a list of Approved Textbooks which have been judged to meet these criteria.
@@ -86,18 +72,6 @@
   ### Sinais e Sistemas
 
   - **Sinais e Sistemas - Luís Caldas de Oliveira**: https://learnius.com/ss
-
-  ### Sistemas Digitais
-
-  - **Digital Systems - Alyssa J. Pasquale**: https://doctor-pasquale.com/wp-content/uploads/2020/11/DigitalSystemsBook.pdf
-
-  ### Telecomunicações
-
-  - **Introduction to Communication Systems: An Interactive Approach Using the Wolfram Language - Victor S. Frost**: https://open.umn.edu/opentextbooks/textbooks/introduction-to-communication-systems-an-interactive-approach-using-the-wolfram-language
-
-  ### Teoria da Computação
-
-  - **Theory of Computation - Jim Hefferon**: https://hefferon.net/computation/
 
   ## Recursos Adicionais
 
